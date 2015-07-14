@@ -3,7 +3,6 @@
 
 lcm
 libbot
-#director
 eigen
 bullet
 octomap
@@ -18,4 +17,5 @@ avl
 xfoil
 iris
 spotless
+director/distro/pods/drake-distro
 drake
